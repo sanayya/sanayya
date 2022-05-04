@@ -1,3 +1,4 @@
+https://github.com/sanayya/sanayya/blob/main/header.png
 - 👋 Hi, I’m @sanayya.
 - 👀 I’m interested in new technologies in the field of Computer Science.
 - 🌱 I'm really passionate about data science, and I'm currently improving my skills in related tech in data science.
